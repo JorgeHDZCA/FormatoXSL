@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatoXSL", "FormatoXSL\FormatoXSL.csproj", "{A24B3405-61C1-4C8E-82D1-0AE3779DBD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24B3405-61C1-4C8E-82D1-0AE3779DBD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24B3405-61C1-4C8E-82D1-0AE3779DBD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24B3405-61C1-4C8E-82D1-0AE3779DBD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24B3405-61C1-4C8E-82D1-0AE3779DBD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C044AAC5-D781-4428-8A0F-396EE74258AB}
+	EndGlobalSection
+EndGlobal
